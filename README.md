@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @oktudorr
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nothing
+<h1 align="center">1udorr</h1>
+<h3 align="center">making shit stuff</h3>
 
-lol
